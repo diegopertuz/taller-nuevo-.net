@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\bin\Debug\ejercicio1.exe.config
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\bin\Debug\ejercicio1.exe
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\bin\Debug\ejercicio1.pdb
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\obj\Debug\ejercicio1.exe
+D:\Documentos\SharpDevelop Projects\taller\ejerciocio1\obj\Debug\ejercicio1.pdb
